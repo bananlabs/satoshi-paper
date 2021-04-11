@@ -9,7 +9,9 @@ As long as a majority of CPU power is controlled by nodes that are not cooperati
 effort basis, and nodes can leave and rejoin the network at will, accepting the longest proof-of-work chain as proof of 
 what happened while they were gone.
 
-**Author**: Satoshi Nakamoto  **Date**: Oct 31, 2008
+**Author**: Satoshi Nakamoto           **Date**: Oct 31, 2008
+
 --------------------------------------------------------------------------------------------------------------------------
+
 Keeping the message alive!
  **HODL Bitcoin!** 

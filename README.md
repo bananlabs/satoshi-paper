@@ -11,5 +11,5 @@ what happened while they were gone.
 
 **Author**: Satoshi Nakamoto  **Date**: Oct 31, 2008
 --------------------------------------------------------------------------------------------------------------------------
-Keeping the message alive
-**HODL Bitcoin** 
+Keeping the message alive!
+ **HODL Bitcoin!** 

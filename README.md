@@ -13,6 +13,6 @@ what happened while they were gone.
 
 --------------------------------------------------------------------------------------------------------------------------
 
-Hosting the Satoshi's whitepaper on a github repo.
+Hosting the Satoshi's whitepaper on a github repo.</br>
 Keeping the message alive!
  **HODL Bitcoin!** 

@@ -1,4 +1,4 @@
-#Bitcoin White Paper
+# Bitcoin White Paper
 
 ## Abstract
 
@@ -13,5 +13,6 @@ what happened while they were gone.
 
 --------------------------------------------------------------------------------------------------------------------------
 
+Hosting the Satoshi's whitepaper on a github repo.
 Keeping the message alive!
  **HODL Bitcoin!** 

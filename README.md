@@ -1,5 +1,7 @@
 # Bitcoin White Paper
 
+![](satoshi.png)
+
 ## Abstract
 
 A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to anotherwithout going through a financial institution. Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. We propose a solution to the double-spending 
